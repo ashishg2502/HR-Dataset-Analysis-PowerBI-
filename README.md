@@ -24,7 +24,7 @@ Designed an interactive Power BI dashboard with insights across attrition and pe
 - Standardized column data types
 - *Engineered key features:* Tenure, AgeGroup, IncomeBand
 - *Output dataset:* The cleaned dataset used for SQL analysis and Power BI dashboarding:
-   📁 [Download \hr_final_clean.csv](./data/hr_final_clean.csv)
+   📁 [Download hr_final_clean.csv](./data/hr_final_clean.csv)
 
 
 🗄️ **Data Analysis (SQL)**
