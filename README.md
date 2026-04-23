@@ -126,4 +126,10 @@ Weak correlation between salary and performance
 
 ## Screenshots
 
+### 🔹 Attrition Analysis
+![Attrition Dashboard](./Attrition_Dashboard.png)
+
+### 🔹 Salary & Performance Analysis
+![Salary Dashboard](./Salary_Dashboard.png)
+
 
