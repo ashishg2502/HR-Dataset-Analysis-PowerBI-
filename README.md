@@ -24,7 +24,7 @@ Designed an interactive Power BI dashboard with insights across attrition and pe
 - Standardized column data types
 - *Engineered key features:* Tenure, AgeGroup, IncomeBand
 - *Output dataset:* The cleaned dataset used for SQL analysis and Power BI dashboarding:
-   hr_final_clean.csv
+   📁 [Download hr_final_clean.csv](./hr_final_clean.csv)
 
 
 🗄️ **Data Analysis (SQL)**
@@ -50,7 +50,7 @@ Built a 2-page interactive dashboard:
  IBM HR Analytics Employee Attrition Dataset (Kaggle)
 
  *Final Dataset* - 
- [Download hr_final_clean.csv](./data/hr_final_clean.csv) 
+ [Download hr_final_clean.csv](./hr_final_clean.csv) 
 
  **Project Files**
   - 📓 [EDA Notebook](./EDA_HR_Dataset.ipynb) – Data preprocessing & analysis  
@@ -123,3 +123,7 @@ Weak correlation between salary and performance
 - hr_final_clean.csv → Cleaned dataset
 - EDA_HR_Dataset.ipynb → Data preprocessing & EDA
 - SQLQuery.sql → SQL queries & KPIs
+
+## Screenshots
+
+
